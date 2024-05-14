@@ -50,7 +50,7 @@ cargo run
 ```
 
 ## How to use
-At the src folder, There are several txt files. Youu can just simply create one txt file or edit the current txt file which is input.txt. Inside the txt file, you can input a matrix and then run the program and input the txt file name.
+At the src folder, There are several txt files. You can just simply create one txt file or edit the current txt file which is input.txt. Inside the txt file, you can input a matrix and then run the program and input the txt file name.
 
 ## Creator
 | NIM      | Nama    | Kelas |
